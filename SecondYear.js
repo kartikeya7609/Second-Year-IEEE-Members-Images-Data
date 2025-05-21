@@ -62,6 +62,14 @@ export const secondYear = [
       "https://www.instagram.com/unanimous_p.k_0607?utm_source=qr&igsh=YzFvYTRjeDhsOXZ2",
   },
   {
+    image: "Second-Year-IEEE-Members-Images/Adarsh Raj.jpg",
+    fullName: "Adarsh Raj",
+    post: "Member",
+    linkedIn:
+      "https://www.linkedin.com/in/adarsh-raj-71669a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagramHandle: "",
+  },
+  {
     image: "Second-Year-IEEE-Members-Images/Mahim Ali Sekh.jpg",
     fullName: "Mahim Ali Sekh",
     post: "Member",
