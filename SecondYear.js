@@ -166,4 +166,13 @@ export const secondYear = [
     instagramHandle:
       "https://www.instagram.com/hanumanthharshan35?igsh=bWFlZ2RsdW0yMnh2",
   },
+  {
+    image: "Second-Year-IEEE-Members-Images/S RATHNA SABAPATHI.jpg",
+    fullName: "S RATHNA SABAPATHI",
+    post: "Member",
+    linkedIn:
+      "https://www.linkedin.com/in/s-rathna-sabapathi-59bb83366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagramHandle:
+      "https://www.instagram.com/srathnasabapathi_?igsh=MTFpbHZrYmZ6emRjNw==",
+  },
 ];
